@@ -23,7 +23,7 @@
 #include "gold.h"
 
 #include <cerrno>
-#include <cstring>
+#include <string>
 #include "safe-ctype.h"
 
 #include "elfcpp.h"
