@@ -1140,7 +1140,7 @@ case "${target}" in
   or1k*-*-*)
     noconfigdirs="$noconfigdirs gdb"
     ;;
-  sh-*-* | sh64-*-*)
+  sh*-*-* | sh64-*-*)
     case "${target}" in
       sh*-*-elf)
          ;;
